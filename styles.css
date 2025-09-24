@@ -1,0 +1,36 @@
+header {
+  align-items: center;
+  margin: auto;
+}
+header p {
+  text-align: center;
+  padding-top: 14px;
+  height: 32px;
+  background-color: rgb(253, 251, 241);
+  border-top: 3px solid #fdf2d0;
+  color: rgb(80, 153, 129);
+}
+main {
+  width: 50%;
+  margin: auto;
+}
+a {
+  color: rgb(80, 153, 129);
+}
+#featured {
+  color: orange;
+}
+#credit {
+  text-align: center;
+  color: rgb(211, 202, 202);
+}
+.ALLINEATORE {
+  text-align: center;
+}
+ol li {
+  font-weight: 700;
+}
+footer {
+  width: 50%;
+  margin: auto;
+}
