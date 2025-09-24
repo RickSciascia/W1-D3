@@ -17,6 +17,10 @@ main {
 a {
   color: rgb(80, 153, 129);
 }
+#border {
+  border-radius: 8px;
+}
+
 #featured {
   color: orange;
 }
