@@ -21,6 +21,10 @@ a {
   border-radius: 8px;
 }
 
+hr {
+  border-color: #bff2f1;
+}
+
 #featured {
   color: orange;
 }
